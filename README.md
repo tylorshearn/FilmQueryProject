@@ -1,6 +1,6 @@
 ### FilmQuery Project
 
-(Images/denise-jans-Lq6rcifGjOU-unsplash.jpg)
+![](Images/denise-jans-Lq6rcifGjOU-unsplash.jpg)
 
 ### Description
 
